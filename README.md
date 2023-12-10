@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **vjoshers799@gmail.com**
 
-- 📄 If you're an exployer read more about my experiences from my [resume](https://docs.google.com/document/d/1R6xS4hrdgKNuNdbwImwolvidcmGKpHGv-eNK_wPPtbk/edit?usp=sharing)
+- 📄 If you're an exployer, read more about my experiences from my [resume](https://docs.google.com/document/d/1R6xS4hrdgKNuNdbwImwolvidcmGKpHGv-eNK_wPPtbk/edit?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joshua-varghese-515140230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-varghese-515140230" height="30" width="40" /></a>
