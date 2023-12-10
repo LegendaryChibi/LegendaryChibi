@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Varghese</h1>
 <h3 align="center">A solutions-oriented game programming student from Canada. 🇨🇦</h3>
 
-- 🔭 I’m currently serving as a Programming Lead at **Tuna Melt Media**
+- 🔭 I’m currently serving as a Programming Lead at **Tuna Melt Media** 🐟🥪
 
 - 🌱 I’m currently learning **C++**
 
