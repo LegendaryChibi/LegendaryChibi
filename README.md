@@ -3,7 +3,7 @@
 
 - 🔭 Actively looking for work and serving as a Programming Lead at **Tuna Melt Media** 🐟🥪
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Unreal Engine Blueprints**
 
 - ⚡️ I usually work as a freelance **Discord Bot Developer**
 
