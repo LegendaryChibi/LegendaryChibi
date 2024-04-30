@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Varghese</h1>
+<h1 align="center">Hi👋, I'm Joshua Varghese </h1>
 <h3 align="center">An award winning game programmer from Canada.🏆🇨🇦</h3>
 
 <h3 align="center">
@@ -9,9 +9,9 @@
 
 ⚡️ I usually work as a freelance **Discord Bot Developer**
 
-📫 You can reach me at **vjoshers799@gmail.com**
+📫 Email me at **vjoshers799@gmail.com**
 
-📄 If you're an employer, read more about my experiences from my <a href="https://docs.google.com/document/d/1R6xS4hrdgKNuNdbwImwolvidcmGKpHGv-eNK_wPPtbk/edit?usp=sharing">resume</a>
+📄 Read more about my experiences from my <a href="https://docs.google.com/document/d/1R6xS4hrdgKNuNdbwImwolvidcmGKpHGv-eNK_wPPtbk/edit?usp=sharing">resume</a>
 </h3>
 
 
@@ -24,7 +24,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,visualstudio,vscode,cpp,cs,python,discord,java,sqlite,mysql" />
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,visualstudio,vscode,cpp,cs,python,discord,bots,java,sqlite,mysql,github,windows" />
   </a>
 </p>
 
