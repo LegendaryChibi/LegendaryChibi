@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Varghese</h1>
 <h3 align="center">An award winning game programmer from Canada. 🇨🇦</h3>
 
-- 🔭 Actively looking for work and serving as a Programming Lead at **Tuna Melt Media** 🐟🥪
+- 🔭 Actively looking for an internship and interested at working at **Behaviour Interactive**
 
 - 🌱 I’m currently learning **Unreal Engine Blueprints**
 
