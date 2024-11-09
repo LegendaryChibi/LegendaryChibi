@@ -9,7 +9,7 @@
 
 ⚡️ I usually work as a freelance **Discord Bot Developer**
 
-📫 Email me at **vjoshers799@gmail.com**
+📫 Email me at **joshuavarghese24@gmail.com**
 
 📄 Read more about my experiences from my <a href="https://docs.google.com/document/d/1R6xS4hrdgKNuNdbwImwolvidcmGKpHGv-eNK_wPPtbk/edit?usp=sharing">resume</a>
 </h3>
