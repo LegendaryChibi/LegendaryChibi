@@ -3,7 +3,7 @@
 
 <h3 align="center">
 
-🔭 Actively looking for an internship and interested in working at **Behaviour Interactive**
+🔭 Actively looking for an internship
 
 🌱 I’m currently learning **Unreal Engine Blueprints**
 
